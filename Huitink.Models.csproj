@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>Huitink.Models</AssemblyName>
+    <PackageId>Huitink.Models</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Models for Huitink. Private package for internal use.</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/square-nl/Huitink.Models</RepositoryUrl>
+    <Authors>square-nl</Authors>
+    <Company>square-nl</Company>
+    <PackageTags>private;models;Huitink</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PrivateAssets>all</PrivateAssets>
+    <PublishRepositoryUrl>false</PublishRepositoryUrl>
+    <IncludeSymbols>false</IncludeSymbols>
+    <IncludeSource>false</IncludeSource>
+  </PropertyGroup>
+
+</Project>
